@@ -1,7 +1,7 @@
 fastapi==0.110.0
 uvicorn==0.29.0
 torch==2.1.0
-numpy==1.22.0
+numpy>=1.23.0
 
 TTS @ git+https://github.com/thinhlpg/TTS.git@add-vietnamese-xtts
 
